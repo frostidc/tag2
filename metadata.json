@@ -1,0 +1,7 @@
+{
+  "name": "Bomb Tag Arena",
+  "description": "A chaotic hot-potato platformer where players and NPCs pass a bomb before time runs out. Features simulated admin commands and dynamic rosters.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
